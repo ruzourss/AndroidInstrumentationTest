@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InstrumentationTest</string>
+    <string name="empty_field_error">Este campo no puede estar vacío</string>
+</resources>

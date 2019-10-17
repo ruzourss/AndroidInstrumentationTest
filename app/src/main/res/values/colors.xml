@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#002b55</color>
+    <color name="colorPrimaryLight">#395382</color>
+    <color name="colorPrimaryDark">#00002c</color>
+
+    <color name="colorAccent">#56b7e9</color>
+    <color name="colorAccentLight">#8ee9ff</color>
+    <color name="colorAccentDark">#0087b7</color>
+
+    <color name="colorTextOnDark">@color/white</color>
+    <color name="colorTextOnPrimary">@color/white</color>
+    <color name="colorTextOnAccent">@color/white</color>
+
+    <color name="colorTextView">@color/grey_700</color>
+
+    <color name="colorTextSubtitle">@color/grey_800</color>
+
+    <color name="colorBackground">@color/white</color>
+    <color name="colorButtonDisabled">@color/grey_400</color>
+    <color name="colorDivider">@color/grey_300</color>
+    <color name="colorItemBackground">@color/white</color>
+    <color name="colorOverlay">@color/grey_800</color>
+    <color name="colorHint">#808080</color>
+
+    <color name="colorFieldDisabled">#33BDBDBD</color>
+    <color name="colorTextDisabled">#CCBDBDBD</color>
+
+    <color name="colorError">#B00020</color>
+    <color name="colorOk">#57AD68</color>
+    <color name="colorOkTransparent">#3357AD68</color>
+
+    <color name="transparent">#00000000</color>
+
+</resources>
